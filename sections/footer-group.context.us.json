@@ -12,5 +12,22 @@
   "context": {
     "market": "us"
   },
-  "sections": {}
+  "sections": {
+    "footer": {
+      "settings": {},
+      "blocks": {
+        "link_list_wFXpk": {
+          "type": "link_list",
+          "disabled": false,
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_wFXpk"
+      ]
+    }
+  }
 }
