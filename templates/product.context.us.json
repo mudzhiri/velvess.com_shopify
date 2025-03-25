@@ -12,5 +12,21 @@
   "context": {
     "market": "us"
   },
-  "sections": {}
+  "sections": {
+    "main": {
+      "settings": {
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_zoom": "hover"
+      },
+      "blocks": {
+        "variant_picker": {
+          "settings": {
+            "swatch_shape": "square",
+            "picker_type": "button"
+          }
+        }
+      }
+    }
+  }
 }

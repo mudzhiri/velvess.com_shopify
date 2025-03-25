@@ -12,5 +12,14 @@
   "context": {
     "market": "us"
   },
-  "sections": {}
+  "sections": {
+    "product-grid": {
+      "settings": {
+        "color_scheme": "scheme-1",
+        "quick_add": "bulk",
+        "image_ratio": "square"
+      },
+      "blocks": {}
+    }
+  }
 }
